@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|c:\\users\\yosis\\source\\repos\\seleniumtry\\seleniumtry\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|solutionrelative:seleniumtry\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|c:\\users\\yosis\\source\\repos\\seleniumtry\\seleniumtry\\seleniumcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|solutionrelative:seleniumtry\\seleniumcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|c:\\users\\yosis\\source\\repos\\seleniumtry\\seleniumtry\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|solutionrelative:seleniumtry\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|c:\\users\\yosis\\source\\repos\\seleniumtry\\seleniumtry\\readcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|solutionrelative:seleniumtry\\readcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|c:\\users\\yosis\\source\\repos\\seleniumtry\\seleniumtry\\my classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|solutionrelative:seleniumtry\\my classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|c:\\users\\yosis\\source\\repos\\seleniumtry\\seleniumtry\\seleniumtry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C1DBE96-C061-46E5-B0BF-274C13BBF6BD}|seleniumTry\\seleniumTry.csproj|solutionrelative:seleniumtry\\seleniumtry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 58,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "My Classes.cs",
+              "DocumentMoniker": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\My Classes.cs",
+              "RelativeDocumentMoniker": "seleniumTry\\My Classes.cs",
+              "ToolTip": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\My Classes.cs",
+              "RelativeToolTip": "seleniumTry\\My Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:37:25.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadCsv.cs",
+              "DocumentMoniker": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\ReadCsv.cs",
+              "RelativeDocumentMoniker": "seleniumTry\\ReadCsv.cs",
+              "ToolTip": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\ReadCsv.cs",
+              "RelativeToolTip": "seleniumTry\\ReadCsv.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAtwPcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:33:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleniumControl.cs",
+              "DocumentMoniker": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\SeleniumControl.cs",
+              "RelativeDocumentMoniker": "seleniumTry\\SeleniumControl.cs",
+              "ToolTip": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\SeleniumControl.cs",
+              "RelativeToolTip": "seleniumTry\\SeleniumControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:31:43.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "seleniumTry\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\MainWindow.xaml.cs",
+              "RelativeToolTip": "seleniumTry\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:31:43.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "seleniumTry\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\MainWindow.xaml",
+              "RelativeToolTip": "seleniumTry\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T15:49:56.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "seleniumTry.csproj",
+              "DocumentMoniker": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\seleniumTry.csproj",
+              "RelativeDocumentMoniker": "seleniumTry\\seleniumTry.csproj",
+              "ToolTip": "C:\\Users\\yosis\\source\\repos\\seleniumTry\\seleniumTry\\seleniumTry.csproj",
+              "RelativeToolTip": "seleniumTry\\seleniumTry.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T06:31:43.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

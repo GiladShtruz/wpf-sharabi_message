@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "seleniumTry": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}

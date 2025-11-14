@@ -1,0 +1,122 @@
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.SuggestedBindingRedirects.cache
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\MainWindow.g.cs
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\App.g.cs
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_Content.g.cs
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_MarkupCompile.cache
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_MarkupCompile.lref
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\linux\selenium-manager
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\macos\selenium-manager
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\windows\selenium-manager.exe
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.exe.config
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.exe
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.pdb
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\FluentScheduler.dll
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.IdentityModel.Logging.dll
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\WebDriver.dll
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\bin\Debug\net48\System.Drawing.Common.dll
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\MainWindow.baml
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.g.resources
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.AssemblyInfoInputs.cache
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.AssemblyInfo.cs
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.CoreCompileInputs.cache
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.CopyComplete
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.exe
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.pdb
+C:\Users\gilad\VisualStudio\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.AssemblyReference.cache
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\linux\selenium-manager
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\macos\selenium-manager
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\windows\selenium-manager.exe
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.exe.config
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.exe
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.pdb
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\FluentScheduler.dll
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\WebDriver.dll
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\System.Drawing.Common.dll
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.AssemblyReference.cache
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\MainWindow.g.cs
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\App.g.cs
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_Content.g.cs
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_MarkupCompile.cache
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_MarkupCompile.lref
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\MainWindow.baml
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.g.resources
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.AssemblyInfoInputs.cache
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.AssemblyInfo.cs
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.CoreCompileInputs.cache
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.CopyComplete
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.exe
+C:\Users\Lila-PC\VisualStudio\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.pdb
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\linux\selenium-manager
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\macos\selenium-manager
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\windows\selenium-manager.exe
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.exe.config
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.exe
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.pdb
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\FluentScheduler.dll
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.IdentityModel.Logging.dll
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\WebDriver.dll
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\bin\Debug\net48\System.Drawing.Common.dll
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.AssemblyReference.cache
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\MainWindow.g.cs
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\App.g.cs
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_Content.g.cs
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_MarkupCompile.cache
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_MarkupCompile.lref
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\MainWindow.baml
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.g.resources
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.AssemblyInfoInputs.cache
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.AssemblyInfo.cs
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.CoreCompileInputs.cache
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\selenium.7B1EAEF4.Up2Date
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.exe
+C:\Users\yosis\OneDrive\שולחן העבודה\גילעד\SharabiProject new- after selenium change\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.pdb
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\linux\selenium-manager
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\macos\selenium-manager
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\selenium-manager\windows\selenium-manager.exe
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.exe.config
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.exe
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\seleniumTry.pdb
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\FluentScheduler.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\WebDriver.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.AssemblyReference.cache
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\MainWindow.g.cs
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\App.g.cs
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_Content.g.cs
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_MarkupCompile.cache
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry_MarkupCompile.lref
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\MainWindow.baml
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.g.resources
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.AssemblyInfoInputs.cache
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.AssemblyInfo.cs
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.CoreCompileInputs.cache
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\selenium.7B1EAEF4.Up2Date
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.exe
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.pdb
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.csproj.SuggestedBindingRedirects.cache
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\obj\Debug\net48\seleniumTry.exe.config
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\System.Buffers.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\System.Memory.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\System.Text.Encodings.Web.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\System.Text.Json.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\yosis\source\repos\seleniumTry\seleniumTry\bin\Debug\net48\System.ValueTuple.dll
